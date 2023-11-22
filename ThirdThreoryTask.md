@@ -1,7 +1,9 @@
-![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/10ce96ab-8766-429c-aa72-334b3fee6579)
-![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/00c658f0-bde3-46d6-aa6f-92d65c87fbcb)
-![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/1fc47173-e0a8-4785-be5e-884d9725c92e)
-![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/8f682b22-9a00-425d-9e40-84ce00da4817)
-![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/758531d2-6d42-4f28-80a1-70e1b4784933)
-![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/39ce944b-bd76-47af-9e49-ecf27a160fdd)
-![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/d7894eba-6fcb-447b-ac5d-6bf030dabf26)
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/869aa1fc-62ed-42b1-9213-430ecf55ffa2)
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/0523d3c9-35e8-4820-8838-d2cad65fe4
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/bcfb4200-b387-4bab-8deb-7b5b5fdcf6bc)
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/26e28013-5f9b-41e2-8606-db5a8d98e9e2)
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/eb54b42c-f961-4cd9-a5c9-3de99eaffa6e)
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/f635d1b8-50ee-430e-b5cc-0fcecf26d5bc)
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/28fd7a3d-99fb-4497-b699-cc57ddb60143)
+![image](https://github.com/George-Amberson/Machine-Learning-Course/assets/61185072/0665f360-baaf-426e-a12f-6f88c8ddba82)
+
